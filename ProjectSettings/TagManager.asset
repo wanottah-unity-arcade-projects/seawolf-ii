@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sea Mine
+  - Player 1 Torpedo
+  - Player 2 Torpedo
+  - Aircraft Carrier
+  - Destroyer
+  - Cruiser
+  - Battle Ship
+  - Submarine
+  - Fast Torpedo Boat
+  - Frigate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Battle Ship
+  - Aircraft Carrier
+  - Destroyer
+  - Cruiser
+  - Fast Attack Boat
+  - Submarine
+  - Sea Mine
+  - Player 1 Torpedo
+  - Player 2 Torpedo
+  - Television Console
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
